@@ -11,6 +11,7 @@
 | [0182-duplicate-emails](https://github.com/yashikav123/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/yashikav123/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/yashikav123/Leetcode/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/yashikav123/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/yashikav123/Leetcode/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/yashikav123/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashikav123/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
